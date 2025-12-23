@@ -1,1 +1,1 @@
-y
+print("hello")
